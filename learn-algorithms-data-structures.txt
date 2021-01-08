@@ -1,0 +1,59 @@
+You're obviously unsure of how/where to start.
+Here's a long answer.
+
+1*. Some Advice
+1. First Basic Steps
+2. How to learn Algorithms & Data Structures
+3. Resources List—Enough to get you started.
+
+__
+
+1*. Some Advice:
+
+> This will be a long process. So, a couple of months (at least) ahead. Only then, you will reach the intermediate level.
+
+> When it comes to Algorithms, the programming language is not as important as the concept itself. Pick whatever you feel most comfortable with, when learning certain aspects of Algorithms & Data Structures:
+
+a/ You may find Python easy to use when learning variables, loops, and functions.
+
+b/ But in some cases, you might need to use another language to learn a certain concept (For example, to learn linked lists, you may need to use C/C++, Pascal, or whatever language that supports pointers, and low level programming to learn more about Memory Allocations, etc).
+
+c/ Java/Javascript* may be most suited to learn about Map or Set structures and Object-Oriented Programming.
+
+d/ Most of these languages have minor differences between them. When using a certain language, you're not supposed to learn each aspect of it, instead learn what you need to reach your goal—which is to learn Algorithms & Data Structures.
+
+> I highly recommend you use English to search for whatever resources you're after. Invest some time in learning English online if needed.
+
+1. Learn Basic Programming Pillars:
+
+>>> Variables, Loops, Conditional Statements, Functions, etc.
+>>> I highly recommend you pick Python, as it's *really* beginner-friendly.
+>>> Best Resource: Python for Everybody (freeCodeCamp) - https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/
+
+2. Learn Algorithms & Data Structures:
+
+>>> Arrays, Lists—Linked Lists, Stacks, Queues, Trees, etc.
+>>> Probably the best language to learn those is C/C++—or even Pascal (Yes, you read it right). After you learn the basics, you may move to Java, and start learning more about ArrayLists, Maps, and all the other data structures of Java.
+>>> Why pick C or Pascal to learn data structures? Because you have to implement every method you need to do a certain action on your data structure. Example: Removing last element from a List. In Java, you find the method already made for you to use, but in C, you got to implement the logic of it—A to Z.
+>>> After learning some basic data structures, you're already up and running implementing cool algorithms to help you manipulate those data structures. But now is the time for more advanced algorithms, like Sorting & Search ones.
+>>> Now is the time to learn about Object-Oriented Programming, Inheritance, Polymorphism and such concepts. Java is probably one of the best languages to learn those.
+>>> After that, you're on position to learn whatever algorithms you might be interested in. (Heuristics, Dynamic Algorithms, [or any other advanced algorithm]
+
+3. Resources:
+
+* These resources contain way too more than what you will need. You got to choose what best suits you. I recommended some of them, either because I used the resource, or it has some good feedback from the web.
+
+> Theory:
+>>> MIT—HIGHLY RECOMMENDED: https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+>>> BackToBackSWE—Recommended (Theory): https://www.youtube.com/c/BackToBackSWE/playlists
+>>> GeeksforGeeks (Theory): https://www.youtube.com/c/GeeksforGeeksVideos/playlists?view=50&sort=dd&shelf_id=5
+>>> Josh Hug (Theory): https://www.youtube.com/channel/UC7FzTMO4rKvlqIyU5vwzFKQ/playlists
+>>> Abdul Bari (Theory): https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
+>>> GauravSensei (Theory): https://www.youtube.com/c/GauravSensei/playlists
+
+> Implementation:
+>>> mycodeschool—implementation in C: https://www.youtube.com/user/mycodeschool/playlists
+>>> Recommended if you're interested in adding Javascript to your toolbox: freeCodeCamp Javascript Algorithms & Data Structures Certification: https://www.freecodecamp.org/learn (You get a Certification after you complete the projects)
+
+> Advanced Theory:
+>>> Stanford Algorithms (Theory): https://www.youtube.com/channel/UCH4s4ek5zqNvct5oy9_jd_g/playlists
