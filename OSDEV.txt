@@ -1,0 +1,9 @@
+Was once obsessed with building my own kernel.
+-
+I ignore the size of your project, but, here I list most resources you probably need for it:
+First, the go-to main page of OS Wiki: https://wiki.osdev.org/Expanded_Main_Page
+*This Wiki contains a tremendous amount of resources, samples, small to big OS tutorials and guides. Documentation on every aspect of OS DEV.
+A book: http://littleosbook.github.io
+A comprehensive video on os boot, MBR, and such: https://www.youtube.com/watch?v=JUe985pNSzg
+A x86 Assembly Language playlist: https://www.youtube.com/playlist...
+Intel Reference manuals: https://software.intel.com/.../articles/intel-sdm.html
